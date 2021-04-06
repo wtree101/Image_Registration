@@ -1,3 +1,6 @@
+https://www.mathworks.com/help/images/ref/registration.metric.mattesmutualinformation.html
+matlab函数网址
+
 使用的是用我的预处理函数搞出来的一套512*512的图集
 
 一张图跑十几秒就可以
